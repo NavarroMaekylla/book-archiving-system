@@ -20,5 +20,5 @@
 ### `npm install'
 
 
-Note if a WARNING! was shown about the 'EditHandler', you can put the comment "// eslint-disable-next-line"
-to dismiss the error and compile the file successfully!
+Note if a WARNING! was shown about the 'EditHandler', you can put this comment before the said line 
+"// eslint-disable-next-line" to dismiss the error and compile the file successfully!
