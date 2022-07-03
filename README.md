@@ -18,3 +18,7 @@
 7. If you encounter error try to run this in the Terminal;
 
 ### `npm install'
+
+
+Note if a WARNING! was shown about the 'EditHandler', you can put the comment "// eslint-disable-next-line"
+to dismiss the error and compile the file successfully!
