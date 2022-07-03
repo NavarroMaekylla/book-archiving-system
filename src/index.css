@@ -24,7 +24,7 @@ input {
   padding: 12px;
   margin: 12px;
   font-size: 14px;
-  border: 1px solid #ccc;
+  border: 1px solid rgb(0, 0, 0);
   box-shadow: 0 1px 4px #ccc;
   border-radius: 6px;
   font-size: 18px;
@@ -43,7 +43,7 @@ button {
   font-size: 18px;
 }
 
-.container {
+.csscontainer {
   box-shadow: 0 1px 6px #ccc;
   border-radius: 6px;
   display: flex;
@@ -54,7 +54,7 @@ button {
   padding: 22px;
 }
 
-.container > p {
+.csscontainer > p {
   cursor: pointer;
   margin: 12px;
 }
@@ -79,7 +79,7 @@ button {
 }
 
 .error {
-  background-color: tomato;
+  background-color: red;
   color: white;
   border-radius: 6px;
   padding: 6px 12px;
